@@ -34,7 +34,7 @@ In this code we fully automate setting up a wordpress on an EC2 instance with Te
 I made this simple diagram to show how the ecosystem works
 ### Work Diagram
 
-![This is an image](https://www.upload.ee/image/14337167/work_diagram.drawio.png)
+![This is an image](https://www.upload.ee/image/14337186/work_diagram.drawio__1_.png)
 
 ## what's been done so far
 
