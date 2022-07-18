@@ -38,7 +38,7 @@ I made this simple diagram to show how the ecosystem works
 
 ## what's been done so far
 
-All the services have been deployed successfully, the only problem I'm facing right now is installing wordpress on the EC2 instance, specifically the database.
+All the services have been deployed successfully, for the database I used mySQL, and the website is up running.
 
 
 
