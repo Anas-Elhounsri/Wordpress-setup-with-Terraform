@@ -31,10 +31,14 @@ In this code we fully automate setting up a wordpress on an EC2 instance with Te
 - A generated SSH key for terraform to access the EC2
 
 ## How the ecosystem works of some services
-
+I made this simple diagram to show how the ecosystem works
 ### Work Diagram
 
-![This is an image](https://www.upload.ee/image/14336492/work_diagram.drawio.svg)
+![This is an image](https://www.upload.ee/image/14336501/Untitled_Diagram.drawio.png)
+
+## what's been done so far
+
+All the services have been deployed successfully, the only problem I'm facing right now is installing wordpress on the EC2 instance, specifically the database.
 
 
 
