@@ -34,7 +34,7 @@ In this code we fully automate setting up a wordpress on an EC2 instance with Te
 
 ### Work Diagram
 
-![This is an image](https://drive.google.com/file/d/1Lozs9kjZJoPeyBGDxgo8QsgbO6XLDlRt/view?usp=sharing)
+![This is an image](https://www.upload.ee/image/14336492/work_diagram.drawio.svg)
 
 
 
