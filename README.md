@@ -30,7 +30,7 @@ In this code we fully automate setting up a wordpress on an EC2 instance with Te
 - 1 security group for EC2 and 1 for RDS
 - A generated SSH key for terraform to access the EC2
 
-## How the ecosystem works of some services
+## How the ecosystem works for some services
 I made this simple diagram to show how the ecosystem works
 ### Work Diagram
 
@@ -38,7 +38,7 @@ I made this simple diagram to show how the ecosystem works
 
 ## what's been done so far
 
-All the services have been deployed successfully, for the database I used mySQL, and the website is up running.
+All the services have been deployed successfully, for the database I used mySQL, and the website is up running (though when it comes to set up wordpress it was done manually).
 
 
 
