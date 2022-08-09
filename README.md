@@ -1,4 +1,4 @@
-# Wordpress setup with Terraform on AWS (Step 1)
+# Wordpress setup with Terraform on AWS 
 
 ## Overview
 
